@@ -1,0 +1,23 @@
+
+{
+    "name": "mirthe/kirby_socialembeds",
+    "version": "1.0",
+    "description": "Embeds social media posts from Bluesky, Pixelfed, Mastodon, Instagram and Twitter/X",
+    "homepage": "https://github.com/mirthe/kirby_socialembeds",
+    "keywords": ["kirby-plugin", "social-media", "embed", "bluesky", "pixelfed", "mastodon", "instagram", "twitter"],
+    "type": "kirby-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mirthe Valentijn",
+            "email": "me@Mirthe.org",
+            "homepage": "https://mirthe.org"
+        }
+    ],
+    "funding": [
+        {
+            "type": "paypal",
+            "url": "https://paypal.me/MirtheValentijn"
+        }
+    ]
+}
