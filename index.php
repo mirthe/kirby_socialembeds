@@ -1,9 +1,9 @@
 <?php 
     require_once __DIR__ . '/classes/Bluesky.php';
-    require_once __DIR__ . '/Classes/Instagram.php';
+    require_once __DIR__ . '/classes/Instagram.php';
     require_once __DIR__ . '/classes/Pixelfed.php';
     require_once __DIR__ . '/classes/Mastodon.php';
-    require_once __DIR__ . '/Classes/Twitter.php';
+    require_once __DIR__ . '/classes/Twitter.php';
 
     Kirby::plugin('mirthe/social-embeds', [
     
